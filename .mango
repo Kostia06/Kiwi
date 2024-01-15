@@ -1,0 +1,15 @@
+
+  
+ clang 
+ @f src .c 
+ -o 
+ main 
+ @b 
+ @r main 
+ @dd 
+ @b 
+ @b 
+ @b 
+ @b 
+  
+ 
